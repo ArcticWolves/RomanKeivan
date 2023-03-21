@@ -1,4 +1,4 @@
-- 👋 Howdy dear friends, I'm Roman, owner of my studio https://arcticwolves.games
+- 👋 Howdy dear friends, I'm Roman, owner of https://arcticwolves.games
 - 👀 I’m interested in gamedev and VR developing...
 - 🌱 I’m currently learning С# programing, unity and 3D modeling and prototyping
 - 💞️ I’m looking to collaborate on game developers & players who love the play or develope game 
