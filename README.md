@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 - 👋 Howdy dear friends, I'm Roman, owner of https://arcticwolves.games
 - 👀 I’m interested in gamedev and VR developing...
 - 🌱 I’m currently learning С# programing, unity and 3D modeling and prototyping
